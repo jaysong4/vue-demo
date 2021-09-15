@@ -1,5 +1,3 @@
-# vue-eth-dapp
-
 ## Project setup
 ```
 npm install
